@@ -1,0 +1,31 @@
+ruleta,dado,nombre,descripcion,vidas
+Pokémon de ruta,1,Destino Ordinario,La captura se realiza de forma normal.,0
+Pokémon de ruta,2,Oportunidad Única,Solo puedes usar UNA PokéBall.,0
+Pokémon de ruta,3,Ruta Maldita,No puedes capturar el Pokémon.,0
+Pokémon de ruta,4,Cuarentena Forzada,Capturas el Pokémon pero va directo a la caja hasta el próximo gimnasio.,0
+Pokémon de ruta,5,Elección del Caminante,Puedes capturar este o el siguiente Pokémon de la ruta.,0
+Pokémon de ruta,6,Gracia del Viaje,Anulas todas las muertes resultantes de este combate.,0
+Antes de un gimnasio,1,Equipo Fracturado,Usa la mitad de tu equipo Pokémon.,0
+Antes de un gimnasio,2,Combate Honorable,Prohibido usar ítems en combate.,0
+Antes de un gimnasio,3,Última Oportunidad,Si pierdes puedes reintentar pero pierdes dos Pokémon.,0
+Antes de un gimnasio,4,Mano de la Esperanza,Revive un Pokémon.,0
+Antes de un gimnasio,5,Sello de Debilidad,Un Pokémon queda bloqueado este y el siguiente combate.,0
+Antes de un gimnasio,6,Desafío Justo,Combate normal.,0
+Medalla obtenida,1,Regreso del Caído,Revive un Pokémon muerto.,0
+Medalla obtenida,2,Favor del Destino,Anulas el siguiente efecto negativo.,0
+Medalla obtenida,3,Descanso del Campeón,Compra 4 curaciones.,0
+Medalla obtenida,4,Licencia de Captura,Obtienes una captura extra.,0
+Medalla obtenida,5,Dado Trucado,Puedes elegir el número del dado.,0
+Medalla obtenida,6,Prueba de Humildad,Tu Pokémon más fuerte va a la caja hasta el próximo gimnasio.,0
+Muerte Pokémon,1,Sacrificio Encadenado,Otro Pokémon además del muerto se va al cementerio.,0
+Muerte Pokémon,2,Luto de Tipo,No puedes usar el tipo principal del caído hasta el próximo gimnasio.,0
+Muerte Pokémon,3,Muerte Agónica,Pierdes dos vidas en lugar de una.,-1
+Muerte Pokémon,4,Resurrección Dolorosa,El Pokémon revive pero pierdes una vida.,-1
+Muerte Pokémon,5,Condena al Abismo,Va al Abismo.,0
+Muerte Pokémon,6,Legado del Caído,El Pokémon muere pero ganas 1 vida adicional.,1
+Ruleta Divina,1,Milagro Prohibido,Revive un Pokémon muerto incluso del cementerio.,0
+Ruleta Divina,2,Bendición Vital,Ganas 3 vidas adicionales.,3
+Ruleta Divina,3,Indulto Divino,La próxima muerte no mata a tu Pokémon.,0
+Ruleta Divina,4,Abundancia Sagrada,Puedes atrapar 2 Pokémon extra en la última ruta.,0
+Ruleta Divina,5,Rescate del Abismo,Saca a 1 Pokémon del Abismo.,0
+Ruleta Divina,6,Voluntad Celestial,Ignoras el próximo efecto negativo.,0
